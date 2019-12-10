@@ -1,0 +1,4 @@
+--级联删除
+--alter table Test add constraint FKDE_Stud_Test foreign key (Sno) references Student (Sno) ON DELETE CASCADE;
+--级联更新
+--alter table Test add constraint FKUP_Stud_Test foreign key (Sno) references Student (Sno) ON UPDATE CASCADE;
