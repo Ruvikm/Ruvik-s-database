@@ -1,0 +1,12 @@
+E:\college\code\C#_CODE\作业\作业5\作业5\bin\Debug\作业5.exe.config
+E:\college\code\C#_CODE\作业\作业5\作业5\bin\Debug\作业5.exe
+E:\college\code\C#_CODE\作业\作业5\作业5\bin\Debug\作业5.pdb
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.csprojAssemblyReference.cache
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.Properties.Resources.resources
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.csproj.GenerateResource.cache
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.exe
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.pdb
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.子窗体.resources
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.frmEditor.resources
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.frmFindAndReplace.resources
+E:\college\code\C#_CODE\作业\作业5\作业5\obj\Debug\作业5.csproj.CopyComplete
